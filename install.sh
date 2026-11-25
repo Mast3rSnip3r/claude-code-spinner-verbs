@@ -7,10 +7,11 @@ SETTINGS="$HOME/.claude/settings.json"
 
 echo "=== claude-code-spinner-verbs installer ==="
 
-# --- Copy categories.json if not already there ---
-if [ ! -f "$DOTCLAUDE/categories.json" ] || [ "$DOTCLAUDE/categories.json" -ot "$SCRIPT_DIR/categories.json" ]; then
+# --- Copy categories.json next to rotate.py (rotate.py reads it from its own dir) ---
+mkdir -p "$DOTCLAUDE/spinner-rotate"
+if [ ! -f "$DOTCLAUDE/spinner-rotate/categories.json" ] || [ "$DOTCLAUDE/spinner-rotate/categories.json" -ot "$SCRIPT_DIR/categories.json" ]; then
   echo "Installing categories.json ..."
-  cp "$SCRIPT_DIR/categories.json" "$DOTCLAUDE/categories.json"
+  cp "$SCRIPT_DIR/categories.json" "$DOTCLAUDE/spinner-rotate/categories.json"
 else
   echo "categories.json already exists, keeping existing"
 fi
