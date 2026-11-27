@@ -103,7 +103,8 @@ def main():
     add("## Categories\n")
     for n in names:
         verbs = cats[n]
-        add(f"### {n} ({len(verbs)})\n")
+        add(f"### {n}\n")
+        add(f"({len(verbs)} verbs)\n")
         add("| Verb |")
         add("|------|")
         for v in verbs:

@@ -87,7 +87,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 
 ## Categories
 
-### Back to the Future (10)
+### Back to the Future
+
+(10 verbs)
 
 | Verb |
 |------|
@@ -119,7 +121,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Breaking Bad (73)
+### Breaking Bad
+
+(73 verbs)
 
 | Verb |
 |------|
@@ -277,7 +281,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Cat Behavior (30)
+### Cat Behavior
+
+(30 verbs)
 
 | Verb |
 |------|
@@ -349,7 +355,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### DC Comics (11)
+### DC Comics
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -383,7 +391,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Disney / Pixar (12)
+### Disney / Pixar
+
+(12 verbs)
 
 | Verb |
 |------|
@@ -419,7 +429,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Doctor Who (10)
+### Doctor Who
+
+(10 verbs)
 
 | Verb |
 |------|
@@ -451,7 +463,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Dune (13)
+### Dune
+
+(13 verbs)
 
 | Verb |
 |------|
@@ -489,7 +503,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Futurama (43)
+### Futurama
+
+(43 verbs)
 
 | Verb |
 |------|
@@ -587,7 +603,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Gaming (13)
+### Gaming
+
+(13 verbs)
 
 | Verb |
 |------|
@@ -625,7 +643,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Harry Potter (13)
+### Harry Potter
+
+(13 verbs)
 
 | Verb |
 |------|
@@ -663,7 +683,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Jurassic Park (10)
+### Jurassic Park
+
+(10 verbs)
 
 | Verb |
 |------|
@@ -695,7 +717,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Lord of the Rings (13)
+### Lord of the Rings
+
+(13 verbs)
 
 | Verb |
 |------|
@@ -733,7 +757,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Mario / Nintendo (11)
+### Mario / Nintendo
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -767,7 +793,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Marvel / MCU (13)
+### Marvel / MCU
+
+(13 verbs)
 
 | Verb |
 |------|
@@ -805,7 +833,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Medieval / Knights (10)
+### Medieval / Knights
+
+(10 verbs)
 
 | Verb |
 |------|
@@ -837,7 +867,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Meme Culture (11)
+### Meme Culture
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -871,7 +903,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Monty Python (11)
+### Monty Python
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -905,7 +939,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Pirate / Nautical (11)
+### Pirate / Nautical
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -939,7 +975,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Pokemon (11)
+### Pokemon
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -973,7 +1011,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Quantum Physics (11)
+### Quantum Physics
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -1007,7 +1047,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Retro Gaming (11)
+### Retro Gaming
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -1041,7 +1083,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Rick and Morty (44)
+### Rick and Morty
+
+(44 verbs)
 
 | Verb |
 |------|
@@ -1141,7 +1185,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Rogue Agent (19)
+### Rogue Agent
+
+(19 verbs)
 
 | Verb |
 |------|
@@ -1191,7 +1237,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Samurai / Japanese (11)
+### Samurai / Japanese
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -1225,7 +1273,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Sci-Fi / Space (16)
+### Sci-Fi / Space
+
+(16 verbs)
 
 | Verb |
 |------|
@@ -1269,7 +1319,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Space / NASA (47)
+### Space / NASA
+
+(47 verbs)
 
 | Verb |
 |------|
@@ -1375,7 +1427,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Star Trek (14)
+### Star Trek
+
+(14 verbs)
 
 | Verb |
 |------|
@@ -1415,7 +1469,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Star Wars (12)
+### Star Wars
+
+(12 verbs)
 
 | Verb |
 |------|
@@ -1451,7 +1507,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Stranger Things (11)
+### Stranger Things
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -1485,7 +1543,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### The Mandalorian (54)
+### The Mandalorian
+
+(54 verbs)
 
 | Verb |
 |------|
@@ -1605,7 +1665,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### The Matrix (11)
+### The Matrix
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -1639,7 +1701,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### The Office (12)
+### The Office
+
+(12 verbs)
 
 | Verb |
 |------|
@@ -1675,7 +1739,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### The Simpsons (31)
+### The Simpsons
+
+(31 verbs)
 
 | Verb |
 |------|
@@ -1749,7 +1815,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Victorian / Steampunk (11)
+### Victorian / Steampunk
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -1783,7 +1851,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Viking / Norse (11)
+### Viking / Norse
+
+(11 verbs)
 
 | Verb |
 |------|
@@ -1817,7 +1887,9 @@ It copies `categories.json` and `rotate.py` into `~/.claude/spinner-rotate/`, th
 ```
 </details>
 
-### Wild West / Cowboy (11)
+### Wild West / Cowboy
+
+(11 verbs)
 
 | Verb |
 |------|
